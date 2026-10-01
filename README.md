@@ -17,7 +17,6 @@ This profile is where I share practical tools, checklists, and workflows I use i
 | Repository | What it is |
 |---|---|
 | [technical-seo-checklist](https://github.com/haninbigleap-max/technical-seo-checklist) | A thorough technical SEO audit checklist in Markdown and CSV |
-| [hreflang-audit](https://github.com/haninbigleap-max/hreflang-audit) | Python tool that audits hreflang in HTML and HTTP headers and exports a CSV report |
 | [seo-automation](https://github.com/haninbigleap-max/seo-automation) | Scripts for bulk status codes, sitemap validation, and meta tag extraction |
 | [seo-ai-workflows](https://github.com/haninbigleap-max/seo-ai-workflows) | Prompt library and templates for AI-assisted SEO and AI search visibility |
 | [programmatic-seo](https://github.com/haninbigleap-max/programmatic-seo) | Jinja2-based page generator with quality guidelines to avoid thin content |
